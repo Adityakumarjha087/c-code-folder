@@ -37,4 +37,24 @@ int main(){
     // String data type  
     string name = "John Doe";  
     cout << "Name: " << name << endl; 
+    if else
+    int a = 2;
+    if(a>10)return 0;
+    else return 1;
+
+    // for loop
+    int a = 20;
+    for(int i = 0;i<a;i++){
+        cout << i << endl;
+    }
+
+    // while loop
+    int i = 0;
+    while (i<a)
+    {
+        cout << i << endl;
+        i++;
+    }
+    
+    // function 
 }
